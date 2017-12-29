@@ -20,12 +20,20 @@
 - [○] 原型设计（屈）
 - [○] 登录注册Demo（屈+李）
 - [○] 即时聊天Demo（李）
+- [○] 项目目录设计
+
+### 相关链接 ###
+- [为什么选用socket.io](https://segmentfault.com/a/1190000005690589)
+- [socket.io学习笔记](https://segmentfault.com/a/1190000000427074)、[socket.io学习笔记二](https://segmentfault.com/a/1190000000438604)、[socket.io学习笔记三](https://segmentfault.com/a/1190000000449888)
+- [Node.js+socket.io实现聊天室Demo](https://www.cnblogs.com/Wayou/p/hichat_built_with_nodejs_socket.html)
+- [Node.js异步I/O和事件驱动](https://segmentfault.com/a/1190000005173218)
+
 
 
 ## 二、聊天室 ##
 
 ### 方向 ###
-参考 [https://www.zhihu.com/question/37594992](https://www.zhihu.com/question/37594992 "前端方向本科应届生有什么毕设选题推荐？") 中的第一个回答
+参考 [前端方向本科应届生有什么毕设选题推荐？](https://www.zhihu.com/question/37594992) 中的第一个回答
 
 ### 技术点 ###
 - Axure原型设计（毕竟聊天室有点弱智，界面还是做漂亮点）
